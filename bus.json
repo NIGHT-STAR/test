@@ -1,4 +1,5 @@
-{"name":"Name0","size":0,"imports":["Name3","Name4","Name9"]},
+[
+ {"name":"Name0","size":0,"imports":["Name3","Name4","Name9"]},
 {"name":"Name1","size":1,"imports":["Name2","Name6","Name160"]},
 {"name":"Name2","size":2,"imports":["Name1","Name5","Name8"]},
 {"name":"Name3","size":3,"imports":["Name0","Name11","Name184"]},
@@ -682,4 +683,5 @@
 {"name":"Name681","size":681,"imports":["Name680","Name682"]},
 {"name":"Name682","size":682,"imports":["Name254","Name681"]},
 {"name":"Name683","size":683,"imports":["Name248","Name258"]},
-{"name":"Name684","size":684,"imports":["Name195"]},
+{"name":"Name684","size":684,"imports":["Name195"]}
+]
